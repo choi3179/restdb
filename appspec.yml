@@ -7,10 +7,10 @@ files:
 
 permissions:
   - object: /
-    pattern: "**"
+    pattern: "*.sh"
     owner: ubuntu
     group: ubuntu
-      # mode: 744
+    mode: 744
 
 hooks:
   AfterInstall:
