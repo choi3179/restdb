@@ -7,7 +7,7 @@ files:
 
 permissions:
   - object: /
-    pattern: "*.sh"
+    pattern: "**"
     owner: ubuntu
     group: ubuntu
     mode: 744
