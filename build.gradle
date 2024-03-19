@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'nin.pysatellite'
-version = '0.3.24-SNAPSHOT'
+version = '0.3.25-SNAPSHOT'
 
 java {
 	sourceCompatibility = '17'
