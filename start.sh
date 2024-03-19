@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-cd /home/ubuntu/app/restdb
+# cd /home/ubuntu/app/restdb
 
-# cd /home/choi/code/restdb
+cd /home/choi/code/restdb
 
 ./gradlew bootJar
 
